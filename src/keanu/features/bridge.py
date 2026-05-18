@@ -1,4 +1,4 @@
-from shot import dataphora
+from shot.dataphora import dataphora
 from szxxx.features.features import FeaturesDto, Features
 
 class KeanuDto(FeaturesDto):
